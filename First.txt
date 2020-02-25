@@ -1,0 +1,1 @@
+Android is Mobile OS based on modified version of linux.
